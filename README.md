@@ -1,12 +1,8 @@
-# cybersecurity-learning-log
-My hands-on cybersecurity learning journey, documenting TryHackMe rooms, practical labs, technical notes, tools explored, and skills developed in ethical hacking, offensive security, and defensive security.
-
-
 # 🔐 Cybersecurity Learning Log
 
 Welcome to my cybersecurity learning journey!
 
-I'm a first-year BCA student specialising in **Cloud and Security**, building my foundations through hands-on labs, practical exercises and continuous learning.
+My hands-on cybersecurity learning journey, documenting TryHackMe rooms, practical labs, technical notes, tools explored, and skills developed in ethical hacking, offensive security, and defensive security.
 
 This repository documents my progress as I explore cybersecurity concepts, ethical hacking and security tools.
 
