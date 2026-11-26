@@ -73,11 +73,6 @@ Through this exercise, I gained practical exposure to:
 - Exploring the importance of securing administrative interfaces.
 - Understanding how attackers may investigate and exploit weaknesses in web applications.
 
-## 🏅 Completion Evidence
-
-Successfully completed the TryHackMe Offensive Security Intro room.
-
-🔗 [View My TryHackMe Room](https://tryhackme.com/room/offensivesecurityintrokKx12?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&share_date=2026-11-26&sharerId=69ce6c682dda685e769a4bd8)
 
 ## 💭 My Reflection
 
@@ -87,8 +82,16 @@ Using the Linux terminal and Dirb to discover hidden pages made the learning exp
 
 I'm continuing to build my cybersecurity foundations through practical exercises and independent projects.
 
+## 🏁 Completion
+
+**Room Progress: 100%**
+
+Completed on: 26 November 2026
+
+🔗 [View My TryHackMe Achievement](https://tryhackme.com/room/offensivesecurityintrokKx12?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&share_date=2026-11-26&sharerId=69ce6c682dda685e769a4bd8)
+
+*Continuing to build my cybersecurity foundations through hands-on labs and practical learning.*
+
 ---
 
-**Decode. Discover. Decide.** 🔐
-
-*Learning by doing, one cybersecurity lab at a time.*
+**Learning Area:** Cybersecurity | Offensive Security | SOC Fundamentals
