@@ -78,6 +78,8 @@ I gained a better understanding of how security teams monitor alerts, investigat
 
 Completed on: 26 November 2026
 
+🔗 [View My TryHackMe Achievement](https://tryhackme.com/room/defensivesecurityintroexp?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&share_date=2026-11-26&sharerId=69ce6c682dda685e769a4bd8)
+
 *Continuing to build my cybersecurity foundations through hands-on labs and practical learning.*
 
 ---
