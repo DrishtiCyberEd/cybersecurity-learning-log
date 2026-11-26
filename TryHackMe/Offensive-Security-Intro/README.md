@@ -86,7 +86,7 @@ I'm continuing to build my cybersecurity foundations through practical exercises
 
 **Room Progress: 100%**
 
-Completed on: 26 November 2026
+Completed on: 25 November 2026
 
 🔗 [View My TryHackMe Achievement](https://tryhackme.com/room/offensivesecurityintrokKx12?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&share_date=2026-11-26&sharerId=69ce6c682dda685e769a4bd8)
 
