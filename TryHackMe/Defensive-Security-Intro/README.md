@@ -1,106 +1,85 @@
 
 # 🛡️ TryHackMe – Defensive Security Intro
 
-<p align="center">
-  <img src="https://img.shields.io/badge/TryHackMe-Completed-brightgreen?style=for-the-badge&logo=tryhackme" />
-  <img src="https://img.shields.io/badge/Focus-Defensive%20Security-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Level-Beginner-orange?style=for-the-badge" />
-</p>
+<escape>![Room Status](https://img.shields.io/badge/Status-Completed-brightgreen)</escape>
+<escape>![Platform](https://img.shields.io/badge/Platform-TryHackMe-red)</escape>
+<escape>![Focus](https://img.shields.io/badge/Focus-Defensive%20Security-blue)</escape>
 
-## 📌 Room Information
+## 📌 About the Room
 
-| Detail | Information |
-|---|---|
-| Platform | TryHackMe |
-| Room | Defensive Security Intro |
-| Completion Date | 26 November 2026 |
-| Focus | Defensive Security / Blue Team |
-| Environment | Simulated Security Dashboard |
-| Status | Completed |
+Completed the **Defensive Security Intro** practical learning experience on TryHackMe.
 
-## 🎯 About This Room
+This room introduced me to the role of a defensive security professional and gave me hands-on experience investigating suspicious activity through a simulated Security Operations Centre (SOC) dashboard.
 
-This room introduced me to the role of a cybersecurity defender through an interactive scenario.
+## 🎯 What I Learned
 
-I worked with a simulated security dashboard to investigate suspicious activity, understand what an attacker was attempting to do, and apply defensive measures to stop the attack.
+- Understanding the role of defensive security and security monitoring.
+- Recognising suspicious alerts in a security dashboard.
+- Identifying potentially malicious IP addresses.
+- Investigating suspicious website activity and hidden pages.
+- Understanding how attackers probe websites for vulnerable entry points.
+- Applying defensive measures to prevent further malicious activity.
 
-## 🧪 Practical Tasks Performed
+## 🔍 Practical Tasks Completed
 
-### 1. Understanding the Defender's Role
-- Learned what defensive security involves.
-- Explored how defenders identify and respond to potential attacks.
+### Task 1 – You're the First Line of Defence
+Learned about the importance of defensive security and the role of security professionals in protecting systems.
 
-### 2. Investigating Suspicious Activity
-- Opened the simulated security dashboard.
-- Reviewed recent security alerts.
-- Identified the suspicious source IP address.
+### Task 2 – Something Looks Wrong
+- Examined a simulated Security Hub dashboard.
+- Reviewed a critical security alert.
+- Identified the suspicious IP address: `32.122.195.63`.
 
-### 3. Investigating the Attack
-- Used the dashboard's investigation feature.
-- Reviewed the pages the attacker was attempting to access.
-- Identified the latest page the attacker was trying to find.
+### Task 3 – What Are Hackers Looking For?
+- Investigated the pages accessed by the attacker.
+- Examined the attempted website paths.
+- Identified the most recent URL accessed: `https://fakebank.thm/admin`.
 
-### 4. Stopping the Attack
-- Blocked the attacker's IP address.
-- Applied measures to slow suspicious activity.
-- Enabled additional protection.
-- Verified that the dashboard confirmed the attack had been stopped.
+### Task 4 – Stop the Hack
+Practised responding to the identified attack by deploying three defensive security measures:
 
-## 🛠️ Tools & Concepts
+1. **Block the attacker:** Blocked the suspicious IP address.
+2. **Slow their requests:** Limited how quickly the attacker could access important pages.
+3. **Turn on protection:** Enabled protection against this type of probing activity.
 
-- **Security Monitoring Dashboard:** Reviewing activity and identifying suspicious alerts.
-- **SOC (Security Operations Centre):** Understanding how security teams monitor and investigate incidents.
-- **IP Address Investigation:** Identifying the source of suspicious network activity.
-- **Firewall Rules:** Blocking unwanted network access.
-- **Rate Limiting:** Slowing excessive activity.
-- **Incident Response:** Taking action to contain an ongoing attack.
+Successfully deployed all three measures and reached the room completion confirmation.
 
-## 📸 Practical Lab Evidence
+## 📸 Screenshots & Practical Evidence
 
-Screenshots documenting my hands-on work:
+The following screenshots document my progress and practical activities throughout the room.
 
-### Security Dashboard
-![Security Dashboard](01-Security-Dashboard.png)
+### 1. Security Dashboard and Suspicious Alert
+![Security Dashboard](Screenshots/01-Security-Dashboard.png)
 
-### Suspicious Activity Investigation
-![Suspicious Activity](02-Suspicious-Activity.png)
+### 2. Identifying the Attacker's IP
+![Identifying Attacker IP](Screenshots/02-Identifying-Attacker-IP.png)
 
-### Attack Investigation
-![Attack Investigation](03-Attack-Investigation.png)
+### 3. Investigating the Hacker's Pages
+![Investigating Hacker Pages](Screenshots/03-Investigating-Hacker-Pages.png)
 
-### Stopping the Attack
-![Stopping the Attack](04-Stopping-the-Attack.png)
+### 4. Identifying the Latest URL
+![Latest URL Identified](Screenshots/04-Latest-URL-Identified.png)
 
-## 📚 Key Learning Outcomes
+### 5. Responding to the Attack
+![Stopping the Attack](Screenshots/05-Stopping-the-Attack.png)
 
-Through this practical exercise, I gained exposure to:
+### 6. Deploying All Security Measures
+![Security Measures Deployed](Screenshots/06-Security-Measures-Deployed.png)
 
-- Monitoring security alerts.
-- Recognising suspicious activity.
-- Investigating potential attacks.
-- Identifying attacker activity through dashboard information.
-- Applying firewall rules to block suspicious IP addresses.
-- Understanding rate limiting and protective security measures.
-- Following a basic incident containment process.
+## 💡 Key Takeaway
 
-## 🏅 Completion Evidence
+This practical experience helped me understand that cybersecurity is not only about identifying attacks but also about responding to them effectively.
 
-Successfully completed the TryHackMe Defensive Security Intro room.
+I gained a better understanding of how security teams monitor alerts, investigate suspicious behaviour and apply defensive controls to protect systems.
 
-🔗 [View My TryHackMe Room](https://tryhackme.com/room/defensivesecurityintroexp?utm_campaign=social_share&utm_medium=social&utm_content=room&utm_source=copy&share_date=2026-11-26&sharerId=69ce6c682dda685e769a4bd8)
+## 🏁 Completion
 
-## 💭 My Reflection
+**Room Progress: 100%**
 
-This room helped me understand the defender's side of cybersecurity through a simulated security incident.
+Completed on: 26 November 2026
 
-I particularly enjoyed investigating the security dashboard, identifying suspicious activity and applying defensive measures to stop the attack.
-
-It gave me a beginner-friendly introduction to the type of monitoring, investigation and incident response activities associated with a Security Operations Centre (SOC).
-
-I'm continuing to develop my cybersecurity skills through hands-on exercises and practical projects.
+*Continuing to build my cybersecurity foundations through hands-on labs and practical learning.*
 
 ---
 
-**Decode. Discover. Decide.** 🔐
-
-*Learning by doing, one cybersecurity lab at a time.*
+**Learning Area:** Cybersecurity | Defensive Security | SOC Fundamentals
