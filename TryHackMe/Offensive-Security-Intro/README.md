@@ -48,21 +48,20 @@ Instead of only learning theoretical concepts, I worked inside a virtual Linux d
 - **Dirb:** Web content and directory discovery tool.
 - **Firefox:** Exploring the simulated web application.
 
+
 ## 📸 Practical Lab Evidence
 
-The following screenshots document my work during the room:
-
 ### Starting the Lab
-![Starting the Lab](Screenshots/01-Starting-the-Lab.png)
+![Starting the Lab](01-Starting-the-Lab.png)
 
 ### Finding Hidden Pages
-![Finding Hidden Pages](Screenshots/02-Finding-Hidden-Pages.png)
+![Finding Hidden Pages](02-Finding-Hidden-Pages.png)
 
 ### Hidden Page Discovery
-![Hidden Page Discovery](Screenshots/03-Hidden-Page-Discovery.png)
+![Hidden Page Discovery](03-Hidden-Page-Discovery.png)
 
 ### Admin Page Exercise
-![Admin Page Exercise](Screenshots/04-Admin-Page-Exercise.png)
+![Admin Page Exercise](04-Admin-Page-Exercise.png)
 
 ## 📚 Key Learning Outcomes
 
