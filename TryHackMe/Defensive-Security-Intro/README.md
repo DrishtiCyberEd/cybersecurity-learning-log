@@ -44,27 +44,27 @@ Practised responding to the identified attack by deploying three defensive secur
 
 Successfully deployed all three measures and reached the room completion confirmation.
 
-## 📸 Screenshots & Practical Evidence
 
-The following screenshots document my progress and practical activities throughout the room.
+## 📸 Practical Lab Evidence
 
-### 1. Security Dashboard and Suspicious Alert
-![Security Dashboard](Screenshots/01-Security-Dashboard.png)
+### 1. Security Dashboard
+![Security Dashboard](./01-Security-Dashboard.png)
 
 ### 2. Identifying the Attacker's IP
-![Identifying Attacker IP](Screenshots/02-Identifying-Attacker-IP.png)
+![Identifying Attacker IP](./02-Identifying-Attacker-IP.png)
 
 ### 3. Investigating the Hacker's Pages
-![Investigating Hacker Pages](Screenshots/03-Investigating-Hacker-Pages.png)
+![Investigating Hacker Pages](./03-Investigating-Hacker-Pages.png)
 
 ### 4. Identifying the Latest URL
-![Latest URL Identified](Screenshots/04-Latest-URL-Identified.png)
+![Latest URL Identified](./04-Latest-URL-Identified.png)
 
-### 5. Responding to the Attack
-![Stopping the Attack](Screenshots/05-Stopping-the-Attack.png)
+### 5. Stopping the Attack
+![Stopping the Attack](./05-Stopping-the-Attack.png)
 
 ### 6. Deploying All Security Measures
-![Security Measures Deployed](Screenshots/06-Security-Measures-Deployed.png)
+![Security Measures Deployed](./06-Security-Measures-Deployed.png)
+
 
 ## 💡 Key Takeaway
 
