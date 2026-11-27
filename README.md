@@ -22,6 +22,7 @@ This repository documents my progress as I explore cybersecurity concepts, ethic
 | Room | Focus Area | Status |
 |---|---|---|
 | Offensive Security Intro | Introduction to Offensive Security | ✅ Completed |
+| Defensive Security Intro | Introduction to Defensive Security | ✅ Completed |
 
 **Room:** [TryHackMe – Offensive Security Intro](https://tryhackme.com/room/offensivesecurityintrokKx12)
 
